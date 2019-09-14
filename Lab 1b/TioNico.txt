@@ -1,0 +1,17 @@
+Total cost of all items: $240.00
+
+List of items:
+T-Shirt: $15.00
+Jeans: $60.00
+Jacket: $60.00
+Sweatshirt: $30.00
+Hoodie: $40.00
+Socks: $15.00
+Discount: 10.00%
+SalesTax: 7.00%
+
+
+Amount saved with discount: $24.00
+Price after discount: $216.00
+Taxes: $15.12
+Total cost of order: $231.12
